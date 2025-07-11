@@ -1,1 +1,4 @@
 # LASMaL
+LASMaL (Labeling Activity and Stress with Machine Learning) is a lightweight machine learning framework designed to automatically label human activity patterns and infer potential stress levels using biometric and movement data such as heart rate, cadence, and speed. The project leverages supervised learning techniques with preprocessing strategies like SMOTE and Group K-Fold Cross-Validation to ensure fair, participant-separated training and robust generalization.
+
+This tool aims to aid researchers, health professionals, and developers working on human-centric applications such as stress detection, lifestyle monitoring, and behavior recognition. By converting raw sensor data into structured activity and stress labels, LASMaL provides the foundation for meaningful insights and intelligent feedback systems.
